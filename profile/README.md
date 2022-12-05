@@ -22,7 +22,7 @@ git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gita
 git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitgateway-service.git
 git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitproduct-service.git
 git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitinvoice-service.git
-git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitcustomer-service
+git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitcustomer-service.git
 ```
 
 ## Consideraciones sobre la base de datos
