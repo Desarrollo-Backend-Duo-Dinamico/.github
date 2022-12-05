@@ -16,13 +16,19 @@ Este proyecto, contiene la implementación de una aplicacion web basada en micro
 Copia y pega esto en una terminal con git, dentro del directorio donde quieres guardar el proyecto.
 
 ```git
-git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitconfig-service.git
-git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitregistry-service.git
-git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitadmin-service.git
-git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitgateway-service.git
-git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitproduct-service.git
-git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitinvoice-service.git
-git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitcustomer-service.git
+git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.git
+
+git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/admin-service.git
+
+git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/registry-service.git
+
+git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/gateway-service.git
+
+git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/customer-service.git
+
+git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/product-service.git
+
+git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/invoice-service.git
 ```
 
 ## Consideraciones sobre la base de datos
