@@ -15,7 +15,7 @@ Este proyecto, contiene la implementación de una aplicacion web basada en micro
 ## Obtener todos los servicios:
 Copia y pega esto en una terminal con git, dentro del directorio donde quieres guardar el proyecto.
 
-```
+```git
 git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitconfig-service.git
 git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitregistry-service.git
 git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitadmin-service.git
@@ -23,8 +23,6 @@ git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitg
 git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitproduct-service.git
 git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitinvoice-service.git
 git clone https://github.com/Desarrollo-Backend-Duo-Dinamico/config-service.gitcustomer-service
-
-
 ```
 
 ## Consideraciones sobre la base de datos
@@ -34,5 +32,3 @@ El proyecto ha sido desarrollado utilizando una base de datos manejada por **pos
 ### O en otro caso:
 
 Proporcionamos los scripts usados para levantar una instancia de la base de datos en **postgresql**, en el repositorio [data-base](https://github.com/Desarrollo-Backend-Duo-Dinamico/data-base). Donde tambien puede encontrar información útil sobre como configurar la base de datos con **postgresql**.
-
-![](./logo.png)
