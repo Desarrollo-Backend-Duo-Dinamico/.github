@@ -9,7 +9,7 @@ Este proyecto, contiene la implementación de una aplicacion web basada en micro
 
 ## Integrantes
 -   [`Francisco Emmanuel Del Moral Morales`](https://github.com/cocisran)  :penguin:
--   [`Lizbeth Gómez de la Torre`](https://github.com/BethGomez44)  :panda_face:
+-   [`Heidi Lizbeth Gómez de la Torre`](https://github.com/BethGomez44)  :panda_face:
 
 
 ## Obtener todos los servicios:
